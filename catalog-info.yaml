@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-in-ghcr
+  annotations:
+    github.com/project-slug: docker-skill-dev/service-in-ghcr
+spec:
+  owner: docker-skill-dev
+  lifecycle: experimental
+  type: service
