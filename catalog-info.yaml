@@ -4,7 +4,6 @@ metadata:
   name: service-in-ghcr
   annotations:
     github.com/project-slug: docker-skill-dev/service-in-ghcr
-    junk-annotation: this-doesnt-matter
 spec:
   owner: docker-skill-dev
   lifecycle: experimental
