@@ -7,4 +7,4 @@ metadata:
 spec:
   owner: docker-skill-dev
   lifecycle: experimental
-  type: website
+  type: service
