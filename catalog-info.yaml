@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service-in-ghcr
+  name: service-in-ghcr-new-name
   annotations:
     github.com/project-slug: docker-skill-dev/service-in-ghcr
 spec:
