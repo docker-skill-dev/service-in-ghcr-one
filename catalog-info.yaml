@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: docker-skill-dev/service-in-ghcr
 spec:
   owner: docker-skill-dev
-  lifecycle: experimental
+  lifecycle: production
   type: website
